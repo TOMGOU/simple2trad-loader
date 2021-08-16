@@ -1,0 +1,24 @@
+{
+  "name": "simple2trad-loader",
+  "version": "1.0.1",
+  "description": "webpack loader translate simple to trad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "123"
+  },
+  "keywords": [
+    "loader",
+    "繁体字"
+  ],
+  "author": "tomgou",
+  "license": "ISC",
+  "dependencies": {
+    "cnchar": "^3.0.3",
+    "cnchar-trad": "^3.0.3",
+    "loader-utils": "^2.0.0"
+  }
+}
